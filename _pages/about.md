@@ -22,4 +22,4 @@ I am applying to MS programs in CS!
 
 Hi! I am Tsu-Yuan. I received my B.S. from NTU CSIE in June this year. Currently, I am working on speech conversion throught text instructions, advise by wonderful Prof. Hung-yi Lee.
 
-Prior to this, my undergraduate reserach focused on foundation models. I worked with Prof. Hung-yi Lee on speech SSL models. I was also fortunate to be advised by Prof. Yun-Nung Chen to work on CLIP's capability for phrase understanding tasks.
+Prior to this, my undergraduate reserach focused on foundation models. I worked with Prof. Hung-yi Lee on speech SSL models. I was also fortunate to be advised by Prof. Yun-Nung Chen to work on multimodal models.
