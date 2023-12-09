@@ -449,6 +449,21 @@ footer.sticky-bottom {
         color: var(--global-card-bg-color) !important;
         background-color: var(--global-theme-color) !important;
       }
+
+      .badge_speech {
+        color: var(--global-card-bg-color) !important;
+        background-color: var(--speech-theme-color) !important;
+      }
+
+      .badge_multimodal {
+        color: var(--global-card-bg-color) !important;
+        background-color: var(--multimodal-theme-color) !important;
+      }
+
+      .badge_text {
+        color: var(--global-card-bg-color) !important;
+        background-color: var(--text-theme-color) !important;
+      }
     }
   }
 }
@@ -680,6 +695,43 @@ footer.sticky-bottom {
           a {
             color: white;
 
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        abbr.badge_speech {
+          display: inline-block;
+          background-color: var(--speech-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: white;
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+        abbr.badge_multimodal {
+          display: inline-block;
+          background-color: var(--multimodal-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: white;
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+        abbr.badge_text {
+          display: inline-block;
+          background-color: var(--text-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: white;
             &:hover {
               text-decoration: none;
             }
