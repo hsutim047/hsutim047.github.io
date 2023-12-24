@@ -18,6 +18,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I am Tsu-Yuan. I received my B.S. from [NTU CSIE](https://www.csie.ntu.edu.tw/) in June this year. Preiously, I was an undergraduate researcher at [SPML Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [MiuLab](https://www.csie.ntu.edu.tw/~miulab/), where I was fortunate to be advised by Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and Prof. [Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/).
+Hi! I am Tsu-Yuan. I received my B.S. from [NTU CSIE](https://www.csie.ntu.edu.tw/) in June this year. Previously, I was an undergraduate researcher at [SPML Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [MiuLab](https://www.csie.ntu.edu.tw/~miulab/), where I was fortunate to be advised by Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and Prof. [Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/).
 
 Currently, I am working with Prof. Lee on speech conversion throught text instructions. Prior to this, I focused on foundation models in my undergraduate study. I worked with Prof. Lee on speech SSL models and Prof. Chen on multimodal models.
